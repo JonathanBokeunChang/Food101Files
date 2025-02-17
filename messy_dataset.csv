@@ -1,0 +1,6 @@
+Name,Age,Salary,City,Experience (Years)
+Alice,25.0,50000.0,New York,2.0
+Bob,,60000.0,Paris,5.0
+Charlie,30.0,,London,3.0
+David,29.0,52000.0,New York,
+Eve,,58000.0,Paris,7.0
